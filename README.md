@@ -1,6 +1,8 @@
 #  Neuroevolucao-CartPole-OpenGymAI
 
-Códigos usado no projeto da disciplina Sistemas Inteligentes, onde desenvolveu-se uma serie de funções baseado em Neuroevolução (Redes Neurais evoluídas por Algoritmos Géneticos) para resolver o problema do Cart-Pole, da plataforma OpenGym.
+Códigos usado no projeto da disciplina Sistemas Inteligentes, onde desenvolvemos uma serie de funções para aplicarmos Neuroevolução (Redes Neurais evoluídas por Algoritmos Géneticos) para resolver o problema do Cart-Pole, da plataforma OpenGymAI de Aprendizado por Reforço.
+
+Mais detalhes podem ser encontrados em um pequeno [tutorial no meu site do github](https://vtoliveira.github.io/projetos/neuroevolucao).
 
 #  Dependências
 
